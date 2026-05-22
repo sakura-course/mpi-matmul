@@ -1,0 +1,10 @@
+[project]
+name = "mpi-matmul"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mpi4py>=4.1.2",
+    "numpy>=2.4.6",
+]
